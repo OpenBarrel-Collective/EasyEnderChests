@@ -2,7 +2,8 @@
 An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
 
 ## Features
-
+- Will be free forever.
+- Written with efficiency and scalability in mind.
 - Multiple storage options for maximum flexibility:
   - JSON [Default]
   - TOML
@@ -11,8 +12,8 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
   - MySQL
   - SQLite
   - H2 Database
-- Written with efficiency and scalability in mind
-- Will be free forever
+- Multiple modes included for any need you can wish for, e.g., level mode, default with configurable rows, etc.
+
 
 **For more information about commands, permissions, and configuration options, please refer to the [Wiki](https://github.com/username/EasyEnderChests/wiki).**
 
