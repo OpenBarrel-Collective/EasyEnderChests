@@ -12,6 +12,7 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
   - SQLite
   - H2 Database
 - Written with efficiency and scalability in mind
+- Will be free forever
 
 **For more information about commands, permissions, and configuration options, please refer to the [Wiki](https://github.com/username/EasyEnderChests/wiki).**
 
