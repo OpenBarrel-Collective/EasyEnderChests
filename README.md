@@ -5,6 +5,9 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
 ## Features
 
 - Multiple database backends for maximum flexibility:
+  - JSON [Default]
+  - TOML
+  - YML
   - MongoDB
   - MySQL
   - SQLite
