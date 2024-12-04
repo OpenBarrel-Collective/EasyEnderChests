@@ -19,7 +19,11 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
 
 ## Build Process
 
-This project is built with [Gradle](https://gradle.org/). To build the plugin, simply run:
+**Requirements:**
+- Java 21 JDK or newer
+- Git
+  
+This project is built with [Gradle](https://gradle.org/). To build the project, simply run:
 
 ```bash
 ./gradlew build
