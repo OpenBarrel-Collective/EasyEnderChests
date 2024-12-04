@@ -1,10 +1,9 @@
 # EasyEnderChests
-
 An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
 
 ## Features
 
-- Multiple database backends for maximum flexibility:
+- Multiple storage options for maximum flexibility:
   - JSON [Default]
   - TOML
   - YML
@@ -12,7 +11,6 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
   - MySQL
   - SQLite
   - H2 Database
-- Simple configuration and setup, even when scaling across multiple servers
 - Written with efficiency and scalability in mind
 
 **For more information about commands, permissions, and configuration options, please refer to the [Wiki](https://github.com/username/EasyEnderChests/wiki).**
