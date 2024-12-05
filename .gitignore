@@ -1,0 +1,8 @@
+### Gradle ###
+.gradle/
+build/
+out/
+run/
+
+# Ignore Gradle build output directory
+build

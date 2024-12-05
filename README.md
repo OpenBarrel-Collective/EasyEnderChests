@@ -15,14 +15,14 @@ An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
 - Multiple modes included for any need you can wish for, e.g., level mode, default with configurable rows, etc.
 
 
-**For more information about commands, permissions, and configuration options, please refer to the [Wiki](https://github.com/username/EasyEnderChests/wiki).**
+**For more information about commands, permissions, and configuration options, please refer to the [Wiki](https://github.com/openbarrel-collective/EasyEnderChests/wiki).**
 
 ## Build Process
 
 **Requirements:**
 - Java 21 JDK or newer
 - Git
-  
+
 This project is built with [Gradle](https://gradle.org/). To build the project, simply run:
 
 ```bash
@@ -31,7 +31,7 @@ This project is built with [Gradle](https://gradle.org/). To build the project, 
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome!  
+Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](./issues) if you have any questions or suggestions.
 
 ## License
