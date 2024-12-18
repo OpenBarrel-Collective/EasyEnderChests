@@ -1,5 +1,5 @@
-# EasyEnderChests
-An easy and blazingly fast enderchest storage plugin for Minecraft. [WIP]
+# EnderStorage [WIP]
+An easy and blazingly fast enderchest storage plugin for Minecraft. 
 
 ## Features
 - Will be free forever.
